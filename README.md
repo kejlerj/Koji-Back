@@ -1,2 +1,2 @@
 # Koji-Back
-Test technique - Back - Koji
+Test technique - Back
